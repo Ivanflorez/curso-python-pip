@@ -1,2 +1,9 @@
-# Steps
+# Game Project
+
+Para correr el juego debes seguir las siguientes instruciones en la temrinal:
+
+``` sh
+cd game
+python3 main.py
+```
 
